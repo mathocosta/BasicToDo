@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basic ToDo</string>
+    <string name="create_task">Criar tarefa</string>
+    <string name="time">Horário</string>
+    <string name="date">Data</string>
+    <string name="title">Título</string>
+    <string name="cancel">Cancelar</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="empty_state_label">Ops, você não possui nenhuma tarefa :(</string>
+    <string name="main_title_label">Tarefas</string>
+</resources>
